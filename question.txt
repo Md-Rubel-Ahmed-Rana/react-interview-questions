@@ -1,0 +1,4 @@
+Q-1: What are the component is React?
+Q-2: What do you mean by SPA?
+Q-3: What is the difference between SPA and MPA?
+Q-4: Explain SPA and MPA with examples.
