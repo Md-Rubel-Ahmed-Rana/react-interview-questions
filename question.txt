@@ -1,4 +1,13 @@
-Q-1: What are the component is React?
-Q-2: What do you mean by SPA?
-Q-3: What is the difference between SPA and MPA?
-Q-4: Explain SPA and MPA with examples.
+Q-01: What is React?
+Q-02: What is JSX?
+Q-03: What are the component is React?
+Q-04: What do you mean by SPA?
+Q-05: What is the difference between SPA and MPA?
+Q-06: Explain SPA and MPA with examples.
+Q-07: What is the difference between virtual dom and real dom?
+Q-08: What is the difference between state and props?
+Q-09: What is the difference between class component and functional component?
+Q-10: What are react lifecycle methods?
+Q-11: What are hooks? Tell us the role of useEffect and useState.
+Q-12: What is diff algorithm?
+Q-13: What is the difference between attribute and property?
