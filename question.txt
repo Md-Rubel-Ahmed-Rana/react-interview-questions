@@ -11,3 +11,10 @@ Q-10: What are react lifecycle methods?
 Q-11: What are hooks? Tell us the role of useEffect and useState.
 Q-12: What is diff algorithm?
 Q-13: What is the difference between attribute and property?
+
+Q-14: How is React different from conventional routing?
+Q-15: How do implement React routing?
+Q-16: What is the purpose of Context API in React?
+Q-17: Can you explain how the Provider works with the React Context AI
+Q-18: What is a custom hook?
+Q-19: How many ways can we implement conditional rendering in React? Explain the ways.
